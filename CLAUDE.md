@@ -5,6 +5,7 @@
 ## 執筆ルール
 - 執筆前に必ず world.md / characters.md / plot.md / style.md /
   summaries/ 内の直前章の要約を読むこと
+  - Sonnet は style.md の代わりに style-sonnet.md に従うこと
 - 1セッションで書くのは1章のみ(6,000〜9,000字)。複数章を一気に書かない
 - 章を書き終えたら:
   1. summaries/chNN.md に要約(登場人物・確定した設定・回収/新設した伏線)を書く
